@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Flaterial - Popups</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel="shortcut icon" href="assets/imgs/favicon.ico">
+		<link type="text/css" rel="stylesheet" href="../dists/flaterial.popups.min.css">
+		<link type="text/css" rel="stylesheet" href="../dists/material-design-iconic-font.min.css">
+		<link type="text/css" rel="stylesheet" href="demo.css">
+	</head>
+	<body>
+		<header id="header">
+			<center>
+				<img src="imgs/Flaterial.png" alt="Flaterial logo" id="logo" width="120px" height="120px">
+				<h1>Flaterial</h1>
+				<h3>Popups plugin 1.0.0</h3>
+			</center>
+		</header>
+		<div id="mainContent">
+			<h4>Flaterial Popups from Flaterial template, dev by Jean-jacques AKAKPO. <a href="">View project code source on github</a></h4>
+			
+			<section>
+				<label><span>hasBackdrop: true</span> Add an overlay layer. Its make other elements not clickable instead of the popup itself.</label>
+				<a href="javascript:void(0);" class="f-btn f-primary f-flat" id="show_1">show with backdrop</a>
+			</section>
+			<section>
+				<label><span>queue: true</span> Next popups elements will show up bellow previous.</label>
+				<a href="javascript:void(0);" class="f-btn f-primary f-flat" id="show_2">show queued popups</a>
+			</section>
+			<section>
+				<label><span>autoCloseDelay: 2000</span> Wait 2000ms before close a popup</label>
+				<a href="javascript:void(0);" class="f-btn f-primary f-flat" id="show_3">show and close after 2000ms</a>
+			</section>
+			<section>
+				<label><span>closeOnClick: true</span> Close when user clicks on it</label>
+				<a href="javascript:void(0);" class="f-btn f-primary f-flat" id="show_4">show and close when user clicks</a>
+			</section>
+			<section>
+				<label>
+					<span>waitingForUser: true, waitingForUserOpts: {...}</span>
+					Wait for user to run correspondant code and close
+				</label>
+				<a href="javascript:void(0);" class="f-btn f-primary f-flat" id="show_5">deal with the user acceptance</a>
+			</section>
+		</div>
+	</body>
+	<script type="text/javascript" src="jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="../dists/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="../dists/flaterial.popups.min.js"></script>
+	<script type="text/javascript" src="demo.js"></script>
+</html>
