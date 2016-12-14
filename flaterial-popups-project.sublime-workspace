@@ -4,6 +4,162 @@
 		"selected_items":
 		[
 			[
+				"pos",
+				"positiveText\t(demo.html)"
+			],
+			[
+				"unQ",
+				"unQueueIfLast"
+			],
+			[
+				"op",
+				"opts_1"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"wai",
+				"waitingForUser"
+			],
+			[
+				"posi",
+				"positive\t(flaterial.popups.min.css)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"transi",
+				"transition"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"con",
+				"con\tCSS - content: '';"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"is",
+				"isOriginalEvent"
+			],
+			[
+				"repl",
+				"replace( searchValue: string, replaceValue: string ): string\tString"
+			],
+			[
+				"for-",
+				"for-j"
+			],
+			[
+				"el",
+				"elts"
+			],
+			[
+				"doc",
+				"document: Document\tWindow"
+			],
+			[
+				"au",
+				"autoCloseDelay"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"he",
+				"height\t(flaterial.popups.min.css)"
+			],
+			[
+				"w",
+				"width\t(flaterial.popups.min.css)"
+			],
+			[
+				"top",
+				"top\t(flaterial.popups.min.css)"
+			],
+			[
+				"sty",
+				"style\tStyle CSS"
+			],
+			[
+				"ani",
+				"animation"
+			],
+			[
+				"new",
+				"newId"
+			],
+			[
+				"tra",
+				"translate3d()"
+			],
+			[
+				"key",
+				"@keyframes"
+			],
+			[
+				"def",
+				"defaultOpts"
+			],
+			[
+				"Pop",
+				"Popup"
+			],
+			[
+				"app",
+				"append( nodes...: Node|DOMString ): void\tDocument"
+			],
+			[
+				"create",
+				"createElement( localName: DOMString ): Element\tDocument"
+			],
+			[
+				"inf",
+				"inflate"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"md-",
+				"md-warning\t(flaterial.popups.min.js)"
+			],
+			[
+				"flaterialPop",
+				"flaterialPopup\t(demo.js)"
+			],
+			[
+				"pop",
+				"popups\t(demo.js)"
+			],
+			[
+				"fla",
+				"flaterialOptions"
+			],
+			[
 				"ti",
 				"titre"
 			],
@@ -16,14 +172,6 @@
 				"import"
 			],
 			[
-				"tr",
-				"transform\tCSS - transform: ;"
-			],
-			[
-				"pad",
-				"padding"
-			],
-			[
 				"mar",
 				"margin"
 			],
@@ -34,10 +182,6 @@
 			[
 				"fl",
 				"flex"
-			],
-			[
-				"au",
-				"auto"
 			],
 			[
 				"text",
@@ -54,10 +198,6 @@
 			[
 				"eas",
 				"ease-out"
-			],
-			[
-				"tra",
-				"transition\tCSS - transition: ;"
 			],
 			[
 				"single",
@@ -102,10 +242,6 @@
 			[
 				"rg",
 				"rgba()"
-			],
-			[
-				"bac",
-				"background-color"
 			],
 			[
 				"abs",
@@ -160,10 +296,6 @@
 				"breakpointsMax"
 			],
 			[
-				"new",
-				"newPerson"
-			],
-			[
 				"lco",
 				"location: Location\tDocument"
 			],
@@ -196,10 +328,6 @@
 				"transform"
 			],
 			[
-				"he",
-				"height"
-			],
-			[
 				"blo",
 				"block"
 			],
@@ -222,10 +350,6 @@
 			[
 				"fi",
 				"fixed"
-			],
-			[
-				"ali",
-				"align-items"
 			],
 			[
 				"pat",
@@ -288,10 +412,6 @@
 				"vente.html\t(app.routes.js)"
 			],
 			[
-				"al",
-				"align-self"
-			],
-			[
 				"background",
 				"background-color"
 			],
@@ -310,10 +430,6 @@
 			[
 				"pu",
 				"push"
-			],
-			[
-				"op",
-				"optimizesearchalgo\t(app.gs-tiers.js)"
 			],
 			[
 				"publi",
@@ -398,127 +514,47 @@
 			[
 				"code",
 				"codewithlovebyitlabo"
-			],
-			[
-				"sm",
-				"small-caps"
-			],
-			[
-				"content",
-				"div#content"
-			],
-			[
-				"hea",
-				"header\tTag"
-			],
-			[
-				"si",
-				"size-cover\t(index.less)"
-			],
-			[
-				"fa",
-				"i.fa"
-			],
-			[
-				"sh",
-				"shadow-z-2\t(index.less)"
-			],
-			[
-				"tran",
-				"transition"
-			],
-			[
-				"wel",
-				"welcoming\t(index.less)"
-			],
-			[
-				"cle",
-				"clearTimeout"
-			],
-			[
-				"ngbin",
-				"ng-bind-html\tAngularJS"
-			],
-			[
-				"SHA",
-				"SHA1PASS"
-			],
-			[
-				"prin",
-				"print_r"
-			],
-			[
-				"in",
-				"inline-block"
-			],
-			[
-				"forea",
-				"forEach( callbackfn: Function, thisArg?: any ): Array\tArray"
-			],
-			[
-				"REGEX_PAS",
-				"REGEX_PASSWORD_WEAK\t(app.constants.js)"
-			],
-			[
-				"preve",
-				"preventDefault(): void\tEvent"
-			],
-			[
-				"comm",
-				"comment\t(index.less)"
-			],
-			[
-				"fir",
-				"firstTime"
-			],
-			[
-				"ra",
-				"random(): number\tMath"
-			],
-			[
-				"dec",
-				"decodedBuffer"
-			],
-			[
-				"console",
-				"console.log()"
-			],
-			[
-				"push-",
-				"push-on\t(app.services.js)"
-			],
-			[
-				"ink",
-				"ink-reaction\t(app.services.js)"
-			],
-			[
-				"md",
-				"i.md"
-			],
-			[
-				"gre",
-				"grey"
-			],
-			[
-				"ove",
-				"overflow"
-			],
-			[
-				"box",
-				"box-shadow"
-			],
-			[
-				"orig",
-				"originalEvent"
-			],
-			[
-				"da",
-				"data"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "demo/demo.html",
+			"settings":
+			{
+				"buffer_size": 2343,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "demo/demo.js",
+			"settings":
+			{
+				"buffer_size": 2396,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "demo/demo.css",
+			"settings":
+			{
+				"buffer_size": 1053,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dists/flaterial.popups.min.js",
+			"settings":
+			{
+				"buffer_size": 6001,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -528,24 +564,32 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "add",
+		"last_filter": "css",
 		"selected_items":
 		[
-			[
-				"add",
-				"Project: Add Folder"
-			],
 			[
 				"css",
 				"Set Syntax: CSS"
 			],
 			[
-				"ena",
-				"Package Control: Enable Package"
-			],
-			[
 				"wo",
 				"Word Wrap: Toggle"
+			],
+			[
+				"wi",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
 			],
 			[
 				"cs",
@@ -590,10 +634,6 @@
 			[
 				"remo",
 				"Package Control: Remove Package"
-			],
-			[
-				"dis",
-				"Package Control: Disable Package"
 			],
 			[
 				"remove",
@@ -804,7 +844,7 @@
 				"Package Control: Add Repository"
 			]
 		],
-		"width": 454.0
+		"width": 414.0
 	},
 	"console":
 	{
@@ -826,11 +866,37 @@
 	},
 	"expanded_folders":
 	[
-		"/E/Projects/My templates/Popups"
+		"/E/Projects/My templates/Popups",
+		"/E/Projects/My templates/Popups/demo"
 	],
 	"file_history":
 	[
+		"/E/Projects/My templates/Popups/dists/flaterial.popups.min.css",
+		"/E/Projects/geekship/geekship.web/assets/less/index.less",
+		"/H/Projets/iai-togo/web/vues/tools/iai/css/_mixins.LESS",
+		"/H/Projets/iai-togo/web/vues/tools/iai/css/iai.LESS",
+		"/E/Projects/LomeJS/jQuery CodeLab/client.cheat/app/app.core.js",
 		"/E/Projects/geekship/geekship.web/index.html",
+		"/E/Projects/geekship/geekship.web/assets/libs/Dropdown/dropdown.js",
+		"/C/Users/Phareal/AppData/Local/Temp/Rar$DI00.649/jquery.mousewheel.js",
+		"/C/Users/Phareal/AppData/Local/Temp/Rar$DI00.241/jquery.parallax-scroll.js",
+		"/C/Users/Phareal/AppData/Local/Temp/Rar$DI01.177/nanobar.js",
+		"/E/Projects/geekship/geekship.web/assets/libs/materialadmin/js/jquery.inputmask.bundle.js",
+		"/E/Projects/geekship/geekship.web/assets/libs/materialadmin/js/App.js",
+		"/E/Projects/geekship/geekship.web/assets/libs/jStorage/jstorage.js",
+		"/E/Projects/geekship/geekship.web/assets/libs/jquery.scrollbar/jquery.scrollbar.js",
+		"/E/Tools/socket.io-client/socket.io-client-master/socket.io.js",
+		"/E/Tools/sw-toolbox/sw-toolbox/lib/sw-toolbox.js",
+		"/E/Tools/sw-toolbox/sw-toolbox/lib/listeners.js",
+		"/E/Tools/sw-toolbox/sw-toolbox/lib/helpers.js",
+		"/C/Users/Phareal/AppData/Local/Temp/Rar$DI00.460/swiper.js",
+		"/C/Users/Phareal/AppData/Local/Temp/Rar$DI21.011/swiper.jquery.js",
+		"/E/Tools/TouchSwipe-Jquery-Plugin/jquery.touchSwipe.js",
+		"/E/Tools/TouchSwipe-Jquery-Plugin/docs/js/main.js",
+		"/E/Tools/TouchSwipe-Jquery-Plugin/docs/js/jquery.ui.ipad.js",
+		"/E/Projects/My templates/Flaterial/assets/less/_fonts.less",
+		"/E/Projects/My templates/Popups/dists/flaterial.popups.min.js",
+		"/E/Projects/My templates/Flaterial/index.html",
 		"/E/Projects/My templates/Flaterial/assets/less/if-mobile.min.less",
 		"/E/Projects/My templates/Flaterial/assets/less/flaterial.less",
 		"/J/Outils/Design/Templates/themeforest-10646222-material-admin-bootstrap-admin-html5-app/themeforest-10646222-material-admin-bootstrap-admin-html5-app/materialadmin/html/dashboards/dashboard.html",
@@ -876,7 +942,6 @@
 		"/J/Outils/Design/Templates/themeforest-10646222-material-admin-bootstrap-admin-html5-app/themeforest-10646222-material-admin-bootstrap-admin-html5-app/materialadmin/html/tables/static.html",
 		"/J/Outils/Design/Templates/themeforest-10646222-material-admin-bootstrap-admin-html5-app/themeforest-10646222-material-admin-bootstrap-admin-html5-app/materialadmin/html/tables/responsive.html",
 		"/E/code.moov",
-		"/E/Projects/geekship/geekship.web/assets/less/index.less",
 		"/E/Projects/ahoea/web/assets/less/_fonts.less",
 		"/E/Projects/geekship/geekship.web/assets/less/_fonts.less",
 		"/C/Users/Phareal/AppData/Local/Temp/scp30887/home/confortis/Bureau/Mirinda/app/partials/main.html",
@@ -933,35 +998,11 @@
 		"/E/Projects/geekship/geekship.web/app/app.components.js",
 		"/E/Projects/geekship/geekship.web/app/app.constants.js",
 		"/E/Projects/geekship/geekship.web/app/app.routes.js",
-		"/E/Projects/geekship/geekship.web/app/app.modules.js",
-		"/E/Projects/ahoea/web/app/app/app.constants.js",
-		"/E/Projects/ahoea/web/assets/less/if-mobile.less",
-		"/E/Projects/ahoea/web/manifest.json",
-		"/E/Projects/ahoea/web/manifest.webapp",
-		"/E/Projects/ahoea/web/package.json",
-		"/E/Projects/geekship/geekship.web/views/geekship/app.gs-tiers.js",
-		"/C/Users/Phareal/Documents/geek.sql",
-		"/E/Projects/geekship/geekship.web/views/gg/gg.js",
-		"/E/Projects/geekship/geekship.web/views/gg/gg.html",
-		"/E/Projects/geekship/geekship.web/views/signin/signin.js",
-		"/E/Projects/geekship/geekship.web/views/post/post.html",
-		"/E/Projects/geekship/geekship.web/views/post/post.js",
-		"/E/Projects/geekship/geekship.web/views/search/search.html",
-		"/E/Projects/geekship/geekship/Scripts/05-ci.sql",
-		"/E/Projects/geekship/geekship.web/views/geekship/settings.html",
-		"/E/Projects/geekship/geekship.web/php/master/driver.php",
-		"/E/Projects/geekship/geekship.web/views/search/search.js",
-		"/E/Projects/geekship/geekship.web/views/geekship/jq.gs-tiers.js",
-		"/E/Projects/geekship/geekship.web/views/welcome/welcome.html",
-		"/E/Projects/geekship/geekship.web/views/f4me/f4me.html",
-		"/E/Projects/geekship/geekship.web/views/page/page.html",
-		"/E/Projects/geekship/geekship.web/views/footer.html",
-		"/E/Projects/geekship/geekship.web/views/geekship/tiers-header.html",
-		"/E/Projects/geekship/geekship.web/views/geekship/about.html"
+		"/E/Projects/geekship/geekship.web/app/app.modules.js"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
@@ -976,134 +1017,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"bootstrap",
-			"SCIPT",
-			"LESS",
-			"Less",
-			"flaterial",
-			"index",
-			"en",
-			"Métadonnées",
-			"Méta",
-			"Geekship",
-			"Flaterial",
-			"Geekship",
-			"SEARCH",
-			"CONTACTUS",
-			"showSearchResults",
-			"CONTACTUS",
-			"showSearchResults",
-			"situationGeographique",
-			"9996",
-			"#searchEngine",
-			"9999",
-			"ate3d(0,30px,0);",
-			"left: left",
-			";",
-			"z-index: 1005;",
-			";",
-			" scale(.7)",
-			"left",
-			";",
-			"brand",
-			"readMore",
-			"if (!this.readMore) {\n\t\t\t\t\t\t\t\t$(document).scrollTop(0);\n\t\t\t\t\t\t\t}",
-			"ng-click=\"showContactUs(obj.token)\"",
-			"titre",
-			"max",
-			"300px",
-			";\n",
-			"default",
-			"form",
-			"envoyer",
-			"block",
-			"text",
-			"name",
-			"ahoeaPopover",
-			"showPopover",
-			"CONTACTUS",
-			".showPopover",
-			"showPopover",
-			"sea",
-			"#sea",
-			"transform",
-			"transition: transform",
-			"transform",
-			"translateY",
-			"#sea",
-			"bottom",
-			"75px",
-			"fixed",
-			"showContactUs",
-			"isMore",
-			"plus",
-			"220px",
-			"isMore",
-			"wholeArticle",
-			"description: \"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
-			"callback",
-			"wholeArticle",
-			"description",
-			"readMore",
-			"isMore",
-			"readMore",
-			"argument",
-			"moreOrLess: function () {\n\t\t\t\t\t\t\tthis.isMore = !this.isMore;\n\t\t\t\t\t\t},",
-			"readMoreOrLess",
-			"assistanceConseil",
-			"details",
 			"top",
-			": ",
+			"false",
+			"warning",
+			"false",
+			"2000",
+			"true",
+			"false",
+			"hasBackdrop",
+			"false",
+			"error",
+			"false",
+			"true",
+			"success",
+			"info",
+			"replace",
+			"on",
+			"success",
+			"info",
+			"true",
+			"false",
+			"argument",
+			"  (",
+			"false",
+			"true",
+			"false",
+			"success",
+			"show_1",
+			"opts_1",
+			"flaterialOptions",
+			"showFlaterialPopup",
+			"5px",
+			"solid",
+			"top",
+			"alert",
+			"clicked",
+			"Ok",
+			"span",
+			"false",
+			"showFlaterialPopup",
+			"show_1",
+			"false",
+			"h3",
+			"width",
+			"size",
+			"link",
+			"h4",
 			"header",
-			"inherit",
-			"#search",
-			"footer",
+			"top",
+			"transparent",
+			"block",
+			"logo",
+			"40%",
+			"Flaterial",
+			"h1",
+			"transparent",
+			"red",
+			"mainContent",
+			"\">",
+			"transparent",
+			"positive",
+			"html",
+			"1",
+			"true",
+			"\tcolor: #",
+			"color: #",
+			"03a9f4",
+			"FF9800",
+			"_warning",
+			"_error",
+			"positive",
+			"#F44336;",
+			"#4CAF50;",
+			"_success",
+			"flaterialPopup",
+			"class",
+			"autoClose",
+			"true",
+			"negativeFunction",
+			"positiveFunction",
+			"neutral",
+			"\"neutral\"",
+			"negative",
+			"neutral",
+			"negativeText",
+			"neutral",
+			"positive",
+			"positiveFunction",
+			"argument",
+			"waitingForUser",
+			"contenu",
+			"true",
+			"bottom",
+			"OK",
+			"positiveFunction",
+			"negativeFunction",
+			"negativeText",
+			"cancel",
+			"positiveText",
+			"waitingForUserOpts",
+			"waitingForUser",
+			"addClass",
+			"none",
+			";",
 			"bottom",
 			"absolute",
-			"header",
-			"Achat",
-			"indice: \"",
-			"type",
-			"args",
-			"header",
-			"CONTACTUS",
-			"args",
+			"positive",
+			"neutral",
+			"role",
+			"link",
+			"showFlaterialPopup",
+			"200px",
+			"unset",
+			"10px",
+			"iconWrapper",
+			"height",
+			"waitingForUser",
+			"bottom",
+			"true",
 			"argument",
-			"showContactUs",
-			"4",
-			"background",
-			"widows",
-			"showContactUs",
-			"popover",
-			"navbar",
-			"lighten(@ahoea_black, 75%)",
-			"search",
-			"showroom",
-			"projets",
-			"projetCtrl",
-			"showroomCtrl",
-			"showroom",
-			"<span class=\"col-xs-4\" ng-show=\"obj.",
-			"nbChambres",
-			"situationGeographique",
-			"<span class=\"col-xs-4\">",
-			"float",
-			"left",
-			"<span class=\"col-xs-12\">",
-			"lg",
-			"xs",
-			"<span>{{obj.",
-			"row",
-			"150px",
-			"imagePrincipale: \"/assets/imgs/slide1.jpg\",\n\t\t\t\t\t\t",
-			"images",
-			"img4",
-			"id",
-			"id=",
-			"singleProjet",
-			"ventes",
-			"prixDeVente",
-			"locations"
+			"false",
+			"pointer",
+			"true",
+			"click",
+			"closeOnClick",
+			"true",
+			"false",
+			"closeOnMouseOver",
+			"\t\t\t\t\t$"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1126,8 +1167,126 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "demo/demo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1809,
+								1809
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 404.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "demo/demo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1399,
+								1399
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1218.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "demo/demo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dists/flaterial.popups.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4973,
+								4973
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 586.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1191,6 +1350,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"flaterial.popups.min.css",
+				"dists\\flaterial.popups.min.css"
+			],
+			[
+				"flaterial.popups.min.js",
+				"dists\\flaterial.popups.min.js"
+			],
 			[
 				"ser",
 				"web\\app\\app.services.js"
@@ -1694,14 +1861,6 @@
 			[
 				"server.",
 				"geekship.web\\php\\server\\index.php"
-			],
-			[
-				"ret",
-				"geekship.web\\views\\retrievepassword\\retrievepassword.html"
-			],
-			[
-				"medi",
-				"geekship.web\\assets\\less\\mediaqueries.less"
 			]
 		],
 		"width": 0.0
@@ -1731,7 +1890,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 338.0,
 	"status_bar_visible": true,
 	"template_settings":

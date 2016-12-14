@@ -48,6 +48,7 @@ header h3 {
 	padding: 40px 20px;
 	background: rgba(0,0,0,.015);
 	line-height: 2;
+	overflow: auto;
 }
 
 #mainContent section .f-btn {

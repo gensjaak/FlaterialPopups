@@ -6,95 +6,70 @@ var
 	$show_5 = $('#show_5');
 
 $show_1.on("click", function () {
-	F.popup.config({
+	var PopupsGroup = new FlaterialPopups().init({
 		type: "info",
-		icon: "",
-		title: "Flaterial-Popup demo",
-		body: "This is a demo of popup's from Flaterial concept. Performent, Easy to use, Cross browser",
+		title: "Flaterial is awesome !",
+		body: "I will use it in all my projects. It's performent, cross browser, sweet and easy to use.",
 		hasBackdrop: true,
-		agressive: false,
-		queue: false,
-		autoCloseDelay: false,
-		closeOnClick: true,
-		closeOnMouseOver: false,
-		waitingForUser: false,
-		waitingForUserOpts: {}
-	}).show();
+		queue: false
+	});
+	var popup = new PopupsGroup.Popup().show();
 });
 
 $show_2.on("click", function () {
-	F.popup.config({
-		type: "success",
-		icon: "",
-		title: "Flaterial-Popup demo",
-		body: "This is a demo of popup's from Flaterial concept. Performent, Easy to use, Cross browser",
-		hasBackdrop: false,
-		agressive: false,
-		queue: true,
-		autoCloseDelay: false,
-		closeOnClick: true,
-		closeOnMouseOver: false,
-		waitingForUser: false,
-		waitingForUserOpts: {}
-	}).show();
+	var PopupsGroup = new FlaterialPopups().init({
+		type: "error",
+		title: "jQuery is required by Flaterial",
+		body: "You should include jQuery main file, jQuery easing plugin before use FlaterialPopups.",
+		closeOnClick: false,
+		queue: true
+	});
+	var popup = new PopupsGroup.Popup().show();
 });
 
 $show_3.on("click", function () {
-	F.popup.config({
-		type: "error",
-		icon: "",
-		title: "Flaterial-Popup demo",
-		body: "This is a demo of popup's from Flaterial concept. Performent, Easy to use, Cross browser",
-		hasBackdrop: false,
-		agressive: false,
-		queue: true,
-		autoCloseDelay: 2000,
+	var PopupsGroup = new FlaterialPopups().init({
+		type: "success",
+		title: "Flaterial Popups v 1.1.0 released !",
+		body: "New object structure",
 		closeOnClick: false,
-		closeOnMouseOver: false,
-		waitingForUser: false,
-		waitingForUserOpts: {}
-	}).show();
+		autoCloseDelay: 2000
+	});
+	var popup = new PopupsGroup.Popup().show();
 });
 
 $show_4.on("click", function () {
-	F.popup.config({
+	var PopupsGroup = new FlaterialPopups().init({
 		type: "warning",
-		icon: "",
-		title: "Flaterial-Popup demo",
-		body: "This is a demo of popup's from Flaterial concept. Performent, Easy to use, Cross browser",
-		hasBackdrop: true,
-		agressive: true,
-		queue: false,
-		autoCloseDelay: false,
+		title: "Flaterial Popups v 1.0.0 is deprecated !",
+		body: "Move on.",
 		closeOnClick: true,
-		closeOnMouseOver: false,
-		waitingForUser: false,
-		waitingForUserOpts: {}
-	}).show();
+		hasBackdrop: true,
+		agressive: true
+	});
+	var popup = new PopupsGroup.Popup().show();
 });
 
 $show_5.on("click", function () {
-	F.popup.config({
-		type: "success",
-		icon: "",
-		title: "Flaterial-Popup demo",
-		body: "This is a demo of popup's from Flaterial concept. Performent, Easy to use, Cross browser",
+	var PopupsGroup = new FlaterialPopups().init({
+		type: "warning",
+		title: "Will you use Flaterial Popups !?",
+		body: "Move on.",
+		closeOnClick: false,
 		hasBackdrop: true,
 		agressive: true,
-		queue: false,
-		autoCloseDelay: false,
-		closeOnClick: true,
-		closeOnMouseOver: false,
 		waitingForUser: true,
 		waitingForUserOpts: {
-			positiveText: "ok",
+			positiveText: "yes, i will",
 			positiveFunction: function () {
-				alert('You clicked OK button');
+				alert("That's cool. Enjoy !");
 			},
-			negativeText: "cancel",
+			negativeText: "maybe next version",
 			negativeFunction: function () {
-				alert('You abort operation !');
+				alert("Thanks " + prompt('Right ! Give me your names so i can notify you when new version released.') + " !");
 			}
 		}
-	}).show();
+	});
+	var popup = new PopupsGroup.Popup();
+	popup.show();
 });
