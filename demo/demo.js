@@ -3,6 +3,7 @@ var
 	$show_2 = $('#show_2'),
 	$show_3 = $('#show_3'),
 	$show_4 = $('#show_4'),
+	$show_6 = $('#show_6'),
 	$show_5 = $('#show_5');
 
 $show_1.on("click", function () {
@@ -72,4 +73,14 @@ $show_5.on("click", function () {
 	});
 	var popup = new PopupsGroup.Popup();
 	popup.show();
+});
+
+$show_6.on("click", function () {
+	var PopupsGroup = new FlaterialPopups().init({
+		type: "imgs/user.jpg",
+		title: "New message from John Doe",
+		body: "Collègue, je viens de trouver un plugin très cool pour gérer mes plugins. C'est le FlaterialPopups. Le développeur sort bientôt un Date time picker aussi performant. Tu devrais essayer !",
+		closeOnClick: true
+	});
+	var popup = new PopupsGroup.Popup().show();
 });
