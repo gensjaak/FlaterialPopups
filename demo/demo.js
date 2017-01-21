@@ -78,9 +78,11 @@ $show_5.on("click", function () {
 $show_6.on("click", function () {
 	var PopupsGroup = new FlaterialPopups().init({
 		type: "imgs/user.jpg",
-		title: "New message from John Doe",
-		body: "Collègue, je viens de trouver un plugin très cool pour gérer mes plugins. C'est le FlaterialPopups. Le développeur sort bientôt un Date time picker aussi performant. Tu devrais essayer !",
-		closeOnClick: true
+		title: "John Doe",
+		body: "Collègue, je viens de trouver un plugin très cool pour gérer mes popups et alertes. C'est le FlaterialPopups. Le développeur sort bientôt un Date time picker aussi performant. Tu devrais essayer !",
+		closeOnClick: true,
+		autoClose: true,
+		autoCloseDelay: 5000
 	});
 	var popup = new PopupsGroup.Popup().show();
 });

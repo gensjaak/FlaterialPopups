@@ -223,3 +223,22 @@ section.flaterialPopup.flaterialPopup_info .iconWrapper {
 	background: transparent;
 	transition: background .05s ease-out 0s;
 }
+
+i#closePopup {
+	position: absolute;
+	bottom: 8px;
+	right: 8px;
+	font-weight: bold;
+	font-size: 90%;
+	opacity: 0.5;
+}
+
+[hidden] {
+	display: none;
+	visibility: hidden;
+	height: 0;
+	width: 0;
+	overflow: hidden;
+	z-index: -1;
+	opacity: 0;
+}
